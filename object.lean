@@ -15,7 +15,7 @@ axiom RealityIsGodelianAsItMeetsItsRequirements : True
 
 
 -- Conclusion
-theorem RealityIsAMathematicalComputationalRecursiveSelfReferentialFormalSystemRequiringAnExternalBaseCase : True :=
+theorem RealityIsAMathematicalComputationalGodelIncompleteSystem : True :=
   have _ := QMSatisfiesCTTCriteriaOfEffectiveMethod
   have _ := QMIsMath
   have _ := QMIsComputational
