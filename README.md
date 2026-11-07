@@ -9,6 +9,22 @@ This is Tarski's distinction. The metalanguage (English) supplies the content an
 
 Lean 4 appears here only as an uninterpreted object language in Tarski's sense. It is a syntactic register: a place to write down each premise and the conclusion as tokens so the argument's shape is visible. It is not a Lean proof. No derivation is claimed in Lean, and none is needed, because the reasoning is done entirely in the metalanguage (English), which assigns meaning to the object-language tokens. English derives the premises from facts and empirical material and draws the conclusion. Lean records the result. Evaluating the Lean block as a formal proof, or expecting it to derive the conclusion, misreads its role. The proof is the English. The Lean is the notation.
 
+# PSA for P1 — Symbols Can Be Physical:
+
+(To argue that a symbol cannot be physical within a Church–Turing framework, you would have to argue against Turing’s own 1936 paper, On Computable Numbers, with an Application to the Entscheidungsproblem. Turing explicitly defines his machine in physical terms:
+
+“The machine is supplied with a ‘tape’ (the analogue of paper) running through it, and divided into sections (called ‘squares’) each capable of bearing a ‘symbol’.”
+
+The tape is physical. The squares are physical. The symbols are physical markings on a physical object. The instructions are physical configurations of the machine. Turing did not treat symbols as abstract entities floating outside the physical world — he treated them as physical marks that the machine reads, writes, and erases according to mechanical rules.
+
+So the Church–Turing thesis is not committed to symbols being abstract. It is committed to symbols being discrete, finite, and mechanically manipulable — all of which physical configurations satisfy.
+
+This matters for P1 because reality is a machine in exactly this sense: each QM process is a procedure that yields a result. The physical configuration is the symbol; the dynamical law is the instruction; the evolution is the mechanical procedure. To deny that a physical configuration can be a symbol, you would have to deny Turing’s own formulation of his machine — which is the very foundation of the Church–Turing thesis being invoked.
+
+
+same for finite number of steps turings tape machine took finite amount of physical steps)
+
+
 ---
 
 ## Premise 1
@@ -29,24 +45,6 @@ The transitions between these states are fixed by the physical laws. These confi
 0
 ⟩
 ∣0⟩) is a finite instruction. The entire physical system acts mechanically.
-
-
-
-# PSA for P1 — Symbols Can Be Physical:
-
-**(To argue that a symbol cannot be physical within a Church–Turing framework, you would have to argue against Turing’s own 1936 paper, On Computable Numbers, with an Application to the Entscheidungsproblem. Turing explicitly defines his machine in physical terms:
-
-“The machine is supplied with a ‘tape’ (the analogue of paper) running through it, and divided into sections (called ‘squares’) each capable of bearing a ‘symbol’.”
-
-The tape is physical. The squares are physical. The symbols are physical markings on a physical object. The instructions are physical configurations of the machine. Turing did not treat symbols as abstract entities floating outside the physical world — he treated them as physical marks that the machine reads, writes, and erases according to mechanical rules.
-
-So the Church–Turing thesis is not committed to symbols being abstract. It is committed to symbols being discrete, finite, and mechanically manipulable — all of which physical configurations satisfy.
-
-This matters for P1 because reality is a machine in exactly this sense: each QM process is a procedure that yields a result. The physical configuration is the symbol; the dynamical law is the instruction; the evolution is the mechanical procedure. To deny that a physical configuration can be a symbol, you would have to deny Turing’s own formulation of his machine — which is the very foundation of the Church–Turing thesis being invoked.
-
-
-same for finite number of steps turings tape machine took finite amount of physical steps)**
-
 
 
 2. **It produces the result in a finite number of steps.**
