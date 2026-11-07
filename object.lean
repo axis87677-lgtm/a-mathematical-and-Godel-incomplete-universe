@@ -32,10 +32,4 @@ theorem RealityIsAMathematicalComputationalRecursiveSelfReferentialFormalSystemR
   have _ := QTMIsPhysicallyInstantiatedInRealityByConsequenceOfP1
   have _ := RealityIsAFormalSystem
   have _ := RealityIsGodelianAsItMeetsItsRequirements
-  have _ := RealityIsSelfReferentialRecursion
-  have _ := DiagonalLemmaIsMathematicallyPartOfReality
-  have _ := SubstitutionFunctionIsPrimitiveRecursion
-  have _ := RealityHasPrimitiveRecursion
-  have _ := RecursionTheoryShowsPrimitiveRecursionInTheStructureNeedsABaseCaseExternalToTheFunctionGenerated
-  have _ := RealityNeedsABaseCase
   True.intro
