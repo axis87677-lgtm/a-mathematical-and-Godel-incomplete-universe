@@ -176,4 +176,4 @@ The universe satisfies every one of those conditions. Reality in fact has more t
 
 # Conclusion:
 
-The universe is mathematical and a formal system with Gödel truths.
+The universe is mathematical and a formal system, that is Gödel incomplete.
