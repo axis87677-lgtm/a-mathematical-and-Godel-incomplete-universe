@@ -13,13 +13,6 @@ axiom RealityIsAFormalSystem : True
 -- Premise 3
 axiom RealityIsGodelianAsItMeetsItsRequirements : True
 
--- Premise 4
-axiom RealityIsSelfReferentialRecursion : True
-axiom DiagonalLemmaIsMathematicallyPartOfReality : True
-axiom SubstitutionFunctionIsPrimitiveRecursion : True
-axiom RealityHasPrimitiveRecursion : True
-axiom RecursionTheoryShowsPrimitiveRecursionInTheStructureNeedsABaseCaseExternalToTheFunctionGenerated : True
-axiom RealityNeedsABaseCase : True
 
 -- Conclusion
 theorem RealityIsAMathematicalComputationalRecursiveSelfReferentialFormalSystemRequiringAnExternalBaseCase : True :=
