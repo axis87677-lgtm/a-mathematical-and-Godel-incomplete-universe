@@ -197,7 +197,7 @@ The universe satisfies every one of those conditions. Reality in fact has more t
 
 # Conclusion:
 
-The universe is mathematical and a formal system, that is physically Gödel incomplete.
+The universe is mathematical and a formal system that is physically Gödel-incomplete, and something about human consciousness is more than this physical incompleteness, since I proved its consistency in this G2 system.
 
 
 ---
