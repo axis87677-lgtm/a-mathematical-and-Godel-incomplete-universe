@@ -201,6 +201,7 @@ The universe is a mathematical and formal system that is physically Gödel-incom
 
 
 ---
+# Just some informal notes, not part of the formal proof—just thought I'd add them here, though.
 
 # Why this is true, not merely conditional:
 
