@@ -197,7 +197,7 @@ The universe satisfies every one of those conditions. Reality in fact has more t
 
 # Conclusion:
 
-The universe is mathematical and a formal system that is physically Gödel-incomplete, and something about human consciousness is more than this physical incompleteness, since I proved its consistency in this G2 system.
+The universe is a mathematical and formal system that is physically Gödel-incomplete.
 
 
 ---
@@ -205,3 +205,8 @@ The universe is mathematical and a formal system that is physically Gödel-incom
 # Why this is true, not merely conditional:
 
 Truth here is not correspondence to an abstract realm. It is physical tracking/identity: a physical description configuration standing in the right physical relation to the physical structure it describes. p = p. The conclusion is not a new abstract object floating above P1–P3; it is the same physical configuration-to-configuration structure P1–P3 already describe, re-described at the level of the argument. For the conclusion to be false while P1–P3 hold, there would have to be a gap between the physical pattern and the formal/mathematical pattern — an abstract layer where the formal system could be complete even though the physical structure is not. Your ontology forbids that gap: there is no abstract formal object separate from the physical configuration, so there is no truthmaker for the negation. To deny the conclusion you would have to deny a physical fact — Turing's physical machine, the Planck/Bekenstein finiteness bounds, QM processes as effective methods, the QTM/Post mapping, or the Gödel conditions — and every such denial is itself a physical inscription/process with physical meaning. There is no abstract standpoint from which to launch the denial. Not to mention that P1 makes reality a literal mathematical object, which follows as a logical conclusion from the Church–Turing predicate in §1.2. So it does apply to mathematical rules, because p = p; there is no category error. (P.S I showed it obeys in P1 reality is made by standard math which obeys classical logic making the reductio on principle of explosion true since it needs a classical logical system.
+
+
+# Regarding consciousness:
+
+Human consciousness, however, transcends this physical incompleteness, since I proved its consistency within this G2 system. Consciousness is still strictly physical: to cause a physical interaction, you must be a physical cause. This does not mean physical existence itself requires a separate physical cause, but simply that physical interactions—like a physical push—require physical causes. Because physical interactions in the brain likewise demand physical causes, consciousness is strictly physical. (whether its entirely by the brain or a field)
